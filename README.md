@@ -1,6 +1,6 @@
 # Demo
 
-<img src="assets/portfolio.png" width="300px">
+<img src="assets/portfolio.png" width="500px">
 
 # Click for preview
-<a href="https://github.com/ziauddin128/modern-portfolio/index.html" target="_blank">Click Here</a>
+<a href="https://ziauddin128.github.io/modern-portfolio/" target="_blank">Click Here</a>
